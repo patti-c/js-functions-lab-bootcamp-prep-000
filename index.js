@@ -2,4 +2,4 @@ function happyHolidays() {
   return 'Happy holidays!'
 }
 
-happyHolidays()
+console.log(happyHolidays())
